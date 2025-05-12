@@ -6,7 +6,7 @@ Below is a summary of the SQL1 Bootcamp days and their completion percentages.
 
 
 
-Name of the Day
+Name of the Day |
 Percent of Completed Task
 
 
